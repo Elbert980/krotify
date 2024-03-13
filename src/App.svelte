@@ -1,24 +1,13 @@
-<h1>svelte</h1>
-<div class="card-container">
-    <div class="card">
-        <div class="card-image"></div>
-        <div class="card-title">Coding</div>
-        <div class="card-text">
-            spotify, apple music
-        </div>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tutorial</title>
+</head>
+<body>
+    <div class="container">
+        <div class="heading">
+            <h3>Photo Gallery</h3>
+
     </div>
-    <div class="card">
-        <div class="card-image"></div>
-        <div class="card-title">Cooking</div>
-        <div class="card-text">
-            youtube, google
-        </div>
-    </div>
-    <div class="card">
-        <div class="card-image"></div>
-        <div class="card-title">Cycling</div>
-        <div class="card-text">
-            Bstation, Netflix
-        </div>
-    </div>
-    </div>
+</body>
+</html>
